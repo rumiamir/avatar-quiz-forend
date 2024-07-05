@@ -1,0 +1,12 @@
+.green{
+    background-color: lightgreen;
+}
+.red{
+    background-color: lightcoral;
+}
+.displayNone{
+    display: none;
+}
+.selected{
+    border: 0.15rem solid rgb(27, 106, 179);
+}
